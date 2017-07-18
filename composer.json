@@ -4,7 +4,7 @@
     "description": "Frontend User Managament",
     "homepage": "https://github.com/visol/datamints_feuser",
     "replace": {
-        "datamints-feuser": "self.version",
+        "datamints_feuser": "self.version",
         "typo3-ter/datamints-feuser": "self.version"
     },
     "require": {
