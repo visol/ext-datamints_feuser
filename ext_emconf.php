@@ -14,7 +14,7 @@ $EM_CONF[$_EXTKEY] = array (
 	'title' => 'Frontend User Management',
 	'description' => 'User registration and edit plugin, fully configurable, custom validators, autologin, double-opt-in, admin approval, IRRE configuration, resend activation mail, redirect features, support for saltedpasswords, support for salesforce. More to come!',
 	'category' => 'plugin',
-	'version' => '0.11.5',
+	'version' => '0.12.0-dev',
 	'state' => 'beta',
 	'author' => 'Bernhard Baumgartl, datamints GmbH',
 	'author_email' => 'b.baumgartl@datamints.com',
@@ -23,7 +23,7 @@ $EM_CONF[$_EXTKEY] = array (
 		'depends' => 
 		array (
 			'php' => '5.3.7-7.99.99',
-			'typo3' => '6.2.0-7.99.99',
+			'typo3' => '6.2.0-8.7.999',
 		),
 		'conflicts' => 
 		array (
