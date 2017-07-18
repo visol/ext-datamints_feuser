@@ -1,0 +1,14 @@
+{
+    "name": "visol/datamints-feuser",
+    "type": "typo3-cms-extension",
+    "description": "Frontend User Managament",
+    "homepage": "https://github.com/visol/datamints_feuser",
+    "replace": {
+        "datamints-feuser": "self.version",
+        "typo3-ter/datamints-feuser": "self.version"
+    },
+    "require": {
+        "typo3/cms-core": ">=6.2.0,<8.7.999",
+        "php": ">=5.4.0"
+    }
+}
